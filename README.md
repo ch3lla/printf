@@ -1,2 +1,2 @@
 # printf
-making my own printf function in C with the help of my teamate Kelvin Kabiru 
+making my own printf function in C with the help of my teamate Kelvin Karori 
